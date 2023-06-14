@@ -3,9 +3,7 @@
 ## Description
 This study guide was created for myself and other boot camp students who are going through their prework assignments. It will be updated throughout bootcamp. It contains notes on HTML, CSS, git, and Javascript.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
